@@ -1,0 +1,7 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["node_modules", "builds"],
+  "exec": "npx tsc && node builds/app.js",
+  "delay": "100ms"
+}

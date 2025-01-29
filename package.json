@@ -1,0 +1,16 @@
+{
+  "name": "8-lesson",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "npx tsc && nodemon builds/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2"
+  }
+}
